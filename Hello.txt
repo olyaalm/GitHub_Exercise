@@ -1,0 +1,3 @@
+Hello, GitHub!
+This is my first file in the GitHub_Exercise repository.
+I am practicing commits, branches, and pushes.
